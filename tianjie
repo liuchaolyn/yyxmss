@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T02:21:09.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" version="14.0.1" etag="jT3_XZmj4M2EfSaSPikQ" type="github"><diagram id="A1fql0nMv_fTWA-W8kVD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T03:51:36.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="up5wtK54dR6LZXltIris" version="14.0.1" type="github">
+  <diagram id="A1fql0nMv_fTWA-W8kVD" name="Page-1">
+    <mxGraphModel dx="1102" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-1" value="入驻" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="319" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-4" value="运营" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="489" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-5" value="续保/换租" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="169" y="340" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-7" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.833;exitY=1.05;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-1" target="aq4yRXlJLT02v8JQb9Ok-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="230" as="sourcePoint" />
+            <mxPoint x="509" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=-0.027;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.05" y="369.5" as="sourcePoint" />
+            <mxPoint x="489.00000000000006" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-12" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.3;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244" y="338" as="sourcePoint" />
+            <mxPoint x="367" y="209.98000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-20" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398.5" y="150" as="sourcePoint" />
+            <mxPoint x="398.5" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-21" target="aq4yRXlJLT02v8JQb9Ok-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-21" value="搬运险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-22" target="aq4yRXlJLT02v8JQb9Ok-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-22" value="装修险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-24" target="aq4yRXlJLT02v8JQb9Ok-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-24" value="工人险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="430" y="30" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-26" value="消防险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="30" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-28" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="380" as="sourcePoint" />
+            <mxPoint x="710" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-29" target="aq4yRXlJLT02v8JQb9Ok-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-29" value="公责险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="221" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-30" target="aq4yRXlJLT02v8JQb9Ok-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-30" value="财产险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="311" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-32" target="aq4yRXlJLT02v8JQb9Ok-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-32" value="雇主责任险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="391" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-34" value="水火责任险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="471" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-47" target="aq4yRXlJLT02v8JQb9Ok-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="257" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aq4yRXlJLT02v8JQb9Ok-39" target="aq4yRXlJLT02v8JQb9Ok-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-39" value="装修险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="352" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-41" value="押金险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="432" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-47" value="搬运险" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="50" y="262" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-51" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="371.5" as="sourcePoint" />
+            <mxPoint x="120" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-54" value="在线出单&lt;br&gt;省时省心" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="539" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-57" value="多店联保&lt;br&gt;贴身服务" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-58" value="快速定损&lt;br&gt;及时理赔" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aq4yRXlJLT02v8JQb9Ok-61" value="搬运放心&lt;br&gt;续保优惠" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
