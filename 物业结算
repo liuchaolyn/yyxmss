@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T02:11:59.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="PiKfKB0THBxv4BvvsJrw" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-05T06:17:06.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="HZKho_4nQzSJRytbxbnH" version="14.4.2" type="github" pages="3">
   <diagram id="3R-vDmNpUDPAzRx3eCt7" name="Page-1">
     <mxGraphModel dx="918" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,10 +405,13 @@
         <mxCell id="A4EUBXI5IGxqJHHgLoEF-3" value="理赔&lt;br&gt;（服务完成）" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#AF45ED;fillColor=#F694C1;fontColor=#095C86;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
           <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4EUBXI5IGxqJHHgLoEF-8" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60E696;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-4">
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-8" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F694C1;fontColor=#095C86;dashed=1;strokeColor=#CC0000;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-55" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60E696;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-4" target="A4EUBXI5IGxqJHHgLoEF-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A4EUBXI5IGxqJHHgLoEF-4" value="结算系统&lt;br&gt;（消费消息）" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#095C86;strokeColor=#AF45ED;fillColor=#F694C1;sketch=0;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
           <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
@@ -416,13 +419,13 @@
         <mxCell id="A4EUBXI5IGxqJHHgLoEF-6" value="消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#095C86;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
           <mxGeometry x="270" y="180" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A4EUBXI5IGxqJHHgLoEF-15" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60E696;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-9" target="A4EUBXI5IGxqJHHgLoEF-14">
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-15" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F694C1;fontColor=#095C86;dashed=1;strokeColor=#CC0000;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-9" target="A4EUBXI5IGxqJHHgLoEF-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A4EUBXI5IGxqJHHgLoEF-9" value="供应链&lt;br&gt;（查询规则）" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#095C86;strokeColor=#AF45ED;sketch=0;fillColor=#F2CC8F;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
           <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4EUBXI5IGxqJHHgLoEF-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60E696;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-14" target="A4EUBXI5IGxqJHHgLoEF-16">
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#F694C1;fontColor=#095C86;dashed=1;strokeColor=#CC0000;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-14" target="A4EUBXI5IGxqJHHgLoEF-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A4EUBXI5IGxqJHHgLoEF-14" value="结算系统&lt;br&gt;（规则结果）" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#095C86;strokeColor=#AF45ED;fillColor=#F694C1;sketch=0;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
@@ -524,6 +527,45 @@
         </mxCell>
         <mxCell id="A4EUBXI5IGxqJHHgLoEF-48" value="收入提现" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#095C86;strokeColor=#AF45ED;sketch=0;fillColor=#B2C9AB;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
           <mxGeometry x="1360" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-57" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60E696;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-54" target="A4EUBXI5IGxqJHHgLoEF-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-54" value="基础数据&lt;br&gt;（匹配供应商）" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#095C86;strokeColor=#AF45ED;fillColor=#F694C1;sketch=0;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
+          <mxGeometry x="360" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-58" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#60E696;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1" source="A4EUBXI5IGxqJHHgLoEF-56" target="A4EUBXI5IGxqJHHgLoEF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-56" value="（结算系统）&lt;br&gt;匹配规则" style="whiteSpace=wrap;html=1;rounded=0;fontColor=#095C86;strokeColor=#AF45ED;fillColor=#F694C1;sketch=0;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
+          <mxGeometry x="960" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-59" value="供应链系统后期接入" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;sketch=0;fontColor=#095C86;fillColor=#FF3333;" vertex="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
+          <mxGeometry x="640" y="110" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-60" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#CC0000;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="90" as="sourcePoint" />
+            <mxPoint x="920" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-61" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#CC0000;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="260" as="sourcePoint" />
+            <mxPoint x="920" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-62" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#CC0000;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="260" as="sourcePoint" />
+            <mxPoint x="520" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4EUBXI5IGxqJHHgLoEF-63" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#CC0000;fillColor=#F694C1;fontColor=#095C86;" edge="1" parent="A4EUBXI5IGxqJHHgLoEF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="260" as="sourcePoint" />
+            <mxPoint x="920" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
