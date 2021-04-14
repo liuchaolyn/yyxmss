@@ -1,1 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T07:33:50.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" version="14.5.8" etag="DHuhzY9AWiJIVKiEj1sF" type="github"><diagram id="2rbLpcgJdrQ1JrIpGqFp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-14T10:44:47.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="Mt2Kk15jHB1JzbE33ecp" version="14.5.10" type="github">
+  <diagram id="2rbLpcgJdrQ1JrIpGqFp" name="Page-1">
+    <mxGraphModel dx="1102" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JrIqLT0imNhMhQEb-82N-1" value="&amp;nbsp; &amp;nbsp;应用层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5E5E5;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-840" width="660" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-2" value="公众号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBCEE5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-820" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-3" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBCEE5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-820" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-4" value="第三方H5链接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBCEE5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-820" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-5" value="WEB&lt;br&gt;（ 海星&amp;nbsp; | 物业 ）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBCEE5;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-820" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-7" value="&amp;nbsp; 转发层" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-740" width="660" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-8" value="请求转发" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-728" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-9" value="资源分发" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-728" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-10" value="日志处理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-728" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-12" value="负载均衡" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-728" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-13" value="&amp;nbsp;API层" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-644" width="660" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-18" value="C端API&lt;br&gt;insurance-api" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-630" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-19" value="海星API&lt;br&gt;insurance-api" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-630" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-20" value="物业API&lt;br&gt;property-api" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-630" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-21" value="开放接口&lt;br&gt;insurance-open" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-630" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-22" value="保险服务结构" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#CCFF99;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-550" width="660" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-45" value="核心服务&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#CCCCFF;" vertex="1" parent="1">
+          <mxGeometry x="92" y="-520" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-46" value="订单、保单" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="102" y="-489" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-47" value="保险商品" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-489" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-48" value="核心理赔" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="103" y="-439" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-49" value="保险结算" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-439" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-50" value="保险佣金" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-389" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-51" value="可回溯" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-389" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-52" value="家医订单" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-334" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-53" value="问诊服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-334" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-54" value="订单、支付、售后平台" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-519" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-55" value="订单平台" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="535" y="-491" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-56" value="支付平台" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="632" y="-491" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-57" value="订单售后" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="535" y="-441" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-58" value="支付对账" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="632" y="-441" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-62" value="工具服务" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="313" y="-519" width="197" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-63" value="api-framework" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="319" y="-493" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-64" value="七牛上传" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-493" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-65" value="日志打印" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="318" y="-443" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-66" value="接口劫持" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-443" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-69" value="&lt;br&gt;&lt;br&gt;流程引擎&lt;br&gt;&lt;br&gt;接口代理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="92" y="-282" width="638" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-70" value="保险风控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-270" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-71" value="保险权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-270" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-72" value="保险流程引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="396" y="-270" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-73" value="微信代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-222" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-74" value="开放平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-222" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-75" value="导出服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-270" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-77" value="企微代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-221" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-78" value="短连接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-270" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-80" value="基础数据相关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="314" y="-390" width="416" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-81" value="保险会员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-357.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-82" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-357.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-83" value="营销活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="534" y="-357.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-85" value="保司代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="396" y="-221" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-87" value="报表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="632" y="-357.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JrIqLT0imNhMhQEb-82N-88" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-222" width="90" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
