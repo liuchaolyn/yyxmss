@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T10:44:47.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="Mt2Kk15jHB1JzbE33ecp" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T10:46:11.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="ZMxzQnqp7gdPDIuxnFny" version="14.5.10" type="github">
   <diagram id="2rbLpcgJdrQ1JrIpGqFp" name="Page-1">
     <mxGraphModel dx="1102" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,52 +109,52 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-66" value="接口劫持" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="414" y="-443" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-69" value="&lt;br&gt;&lt;br&gt;流程引擎&lt;br&gt;&lt;br&gt;接口代理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-69" value="&lt;br&gt;&lt;br&gt;流程引擎&lt;br&gt;&lt;br&gt;接口代理" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#CFCFCF;" vertex="1" parent="1">
           <mxGeometry x="92" y="-282" width="638" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-70" value="保险风控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-70" value="保险风控" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-71" value="保险权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-71" value="保险权限" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-72" value="保险流程引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-72" value="保险流程引擎" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="396" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-73" value="微信代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-73" value="微信代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="-222" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-74" value="开放平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-74" value="开放平台" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="-222" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-75" value="导出服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-75" value="导出服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-77" value="企微代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-77" value="企微代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="280" y="-221" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-78" value="短连接" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-78" value="短连接" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="625" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-80" value="基础数据相关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-80" value="基础数据相关" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="314" y="-390" width="416" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-81" value="保险会员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-81" value="保险会员" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="325" y="-357.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-82" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-82" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="-357.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-83" value="营销活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-83" value="营销活动" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="534" y="-357.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-85" value="保司代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-85" value="保司代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="396" y="-221" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-87" value="报表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-87" value="报表" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="632" y="-357.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-88" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;align=center;" vertex="1" parent="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-88" value="......" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="625" y="-222" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
