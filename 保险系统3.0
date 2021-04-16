@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:08:36.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="VFMTqrVLrNTgtJCCDqDD" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T03:58:42.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="s6C73_PYZNm5cAsFym7v" version="14.6.1" type="github">
   <diagram id="2rbLpcgJdrQ1JrIpGqFp" name="Page-1">
-    <mxGraphModel dx="1102" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-72" value="保险流程引擎" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="396" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-73" value="微信代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-73" value="企业微信" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="-222" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-74" value="开放平台" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -127,7 +127,7 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-75" value="导出服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="520" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-77" value="企微代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-77" value="微信代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="280" y="-221" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-78" value="短连接" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -271,19 +271,19 @@
             <mxPoint x="629.5" y="-644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AkmE11sHjf8iNPaxBQLg-1" value="api-framework" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="AkmE11sHjf8iNPaxBQLg-1" value="api-framework" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="386" y="-377.5" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AkmE11sHjf8iNPaxBQLg-2" value="消息服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="AkmE11sHjf8iNPaxBQLg-2" value="消息服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="385" y="-332" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AkmE11sHjf8iNPaxBQLg-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="AkmE11sHjf8iNPaxBQLg-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="-472" as="sourcePoint" />
             <mxPoint x="800" y="-471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AkmE11sHjf8iNPaxBQLg-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="AkmE11sHjf8iNPaxBQLg-5" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="-250" as="sourcePoint" />
             <mxPoint x="800" y="-249.5" as="targetPoint" />
