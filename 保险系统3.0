@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T10:41:39.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="oI6dkWuy-l8FGymY6fd5" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T01:52:44.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="B3BI-rv14S_fedMzqWqm" version="14.6.0" type="github">
   <diagram id="2rbLpcgJdrQ1JrIpGqFp" name="Page-1">
     <mxGraphModel dx="1102" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,19 +91,19 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-58" value="支付对账" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="632" y="-441" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-62" value="工具服务" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-62" value="基础数据相关" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="313" y="-519" width="197" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-63" value="api-framework" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-63" value="保险会员" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="319" y="-493" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-64" value="七牛服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-64" value="基础数据&lt;br&gt;（人房社区）" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="415" y="-493" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-65" value="日志打印" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-65" value="报表" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="318" y="-443" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-66" value="接口劫持" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-66" value="可回溯" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="414" y="-443" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-69" value="&lt;br&gt;&lt;br&gt;流程引擎&lt;br&gt;&lt;br&gt;接口代理" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#CFCFCF;" parent="1" vertex="1">
@@ -133,14 +133,14 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-78" value="短连接" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="625" y="-270" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-80" value="基础数据相关" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-80" value="工具服务" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="314" y="-390" width="416" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-81" value="保险会员" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="323" y="-357.5" width="90" height="35" as="geometry" />
+        <mxCell id="JrIqLT0imNhMhQEb-82N-81" value="日志打印" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="500" y="-334" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-82" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="427" y="-357.5" width="90" height="35" as="geometry" />
+        <mxCell id="JrIqLT0imNhMhQEb-82N-82" value="七牛服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="500" y="-377" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-83" value="营销活动" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="204" y="-389" width="90" height="35" as="geometry" />
@@ -148,8 +148,8 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-85" value="保司代理" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="396" y="-221" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-87" value="报表" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="532" y="-357.5" width="90" height="35" as="geometry" />
+        <mxCell id="JrIqLT0imNhMhQEb-82N-87" value="发号器" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="620" y="-377.5" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-88" value="......" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="625" y="-222" width="90" height="35" as="geometry" />
@@ -262,14 +262,20 @@
             <mxPoint x="239.5" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4xzIKpURy4oxcSEhoXa-1" value="可回溯" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="635" y="-357.5" width="90" height="35" as="geometry" />
+        <mxCell id="d4xzIKpURy4oxcSEhoXa-1" value="接口劫持" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="620" y="-334" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="d4xzIKpURy4oxcSEhoXa-2" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="d4xzIKpURy4oxcSEhoXa-2" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="629.76" y="-680" as="sourcePoint" />
             <mxPoint x="629.5" y="-644" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AkmE11sHjf8iNPaxBQLg-1" value="api-framework" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-377.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AkmE11sHjf8iNPaxBQLg-2" value="消息服务" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-332" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
