@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T03:05:39.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="QgVKmG0e1Pb88pF_v9Ib" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T03:08:36.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="VFMTqrVLrNTgtJCCDqDD" version="14.6.0" type="github">
   <diagram id="2rbLpcgJdrQ1JrIpGqFp" name="Page-1">
     <mxGraphModel dx="1102" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-22" value="保险服务" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#F2F2F2;" parent="1" vertex="1">
           <mxGeometry x="80" y="-550" width="660" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-45" value="核心服务&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#CCCCFF;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-45" value="核心服务&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#E4CCFE;" parent="1" vertex="1">
           <mxGeometry x="92" y="-520" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-46" value="订单、保单" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
