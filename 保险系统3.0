@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T06:17:21.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="QnS68s-4H3-G9uXD2AgS" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T06:21:56.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="3XSCS8i9Qv6wuMjJgWMn" version="14.6.1" type="github">
   <diagram id="2rbLpcgJdrQ1JrIpGqFp" name="Page-1">
     <mxGraphModel dx="1929" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,19 +35,19 @@
           <mxGeometry x="750" y="-728" width="176" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-13" value="&amp;nbsp;API层" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#d79b00;fillColor=#FFE7CF;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="-644" width="1820" height="74" as="geometry" />
+          <mxGeometry x="-140" y="-644" width="1820" height="64" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-18" value="C端API&lt;br&gt;qds-insurance-api" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="9" y="-624.5" width="176" height="35" as="geometry" />
+          <mxGeometry x="9" y="-629.5" width="176" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-19" value="海星API&lt;br&gt;qds-insurance-manage-api" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="304" y="-624.5" width="176" height="35" as="geometry" />
+          <mxGeometry x="299" y="-629.5" width="176" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-20" value="物业API&lt;br&gt;qds-insurance-partner-api" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="594" y="-624.5" width="176" height="35" as="geometry" />
+          <mxGeometry x="594" y="-629.5" width="176" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-21" value="开放接口&lt;br&gt;qds-insurance-open" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-624.5" width="176" height="35" as="geometry" />
+          <mxGeometry x="910" y="-629.5" width="176" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-22" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;核心服务&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#F2F2F2;" parent="1" vertex="1">
           <mxGeometry x="-140" y="-550" width="1820" height="380" as="geometry" />
@@ -120,14 +120,14 @@
         </mxCell>
         <mxCell id="ra1jYOBYjsn4gEy33NkY-6" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1155" y="-570" as="sourcePoint" />
-            <mxPoint x="1155" y="-540" as="targetPoint" />
+            <mxPoint x="1150" y="-580" as="sourcePoint" />
+            <mxPoint x="1150" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ra1jYOBYjsn4gEy33NkY-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="239.5" y="-570" as="sourcePoint" />
-            <mxPoint x="239.5" y="-540" as="targetPoint" />
+            <mxPoint x="239.5" y="-580" as="sourcePoint" />
+            <mxPoint x="239.5" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ra1jYOBYjsn4gEy33NkY-10" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -158,7 +158,7 @@
           <mxGeometry x="369" y="-289" width="165" height="35" as="geometry" />
         </mxCell>
         <mxCell id="g9-n_CqM4U9V9fli3E09-1" value="数据系统API&lt;br&gt;qds-insurance-data-api" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1227" y="-624.5" width="176" height="35" as="geometry" />
+          <mxGeometry x="1226" y="-629.5" width="176" height="35" as="geometry" />
         </mxCell>
         <mxCell id="g9-n_CqM4U9V9fli3E09-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="560" y="-310" width="300" height="130" as="geometry" />
@@ -296,6 +296,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="-450" as="sourcePoint" />
             <mxPoint x="550" y="-169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_HNEfAQaNREcmYZLOJD-1" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="162.76" y="-170" as="sourcePoint" />
+            <mxPoint x="162.49999999999977" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_HNEfAQaNREcmYZLOJD-2" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1430.26" y="-170" as="sourcePoint" />
+            <mxPoint x="1429.9999999999998" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
