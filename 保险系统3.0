@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T06:45:13.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="NY5ciUYaldPJjefTPWWZ" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T07:27:44.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="fD8yLUdZ4RZSuPmCXpeJ" version="14.6.5" type="github">
   <diagram id="2rbLpcgJdrQ1JrIpGqFp" name="Page-1">
-    <mxGraphModel dx="1929" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="JrIqLT0imNhMhQEb-82N-82" value="七牛服务&lt;br&gt;qds-qiniu-starter" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="-234" width="125" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="JrIqLT0imNhMhQEb-82N-87" value="发号器&lt;br&gt;qding-senquence" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#FF99FF;" parent="1" vertex="1">
+        <mxCell id="JrIqLT0imNhMhQEb-82N-87" value="发号器&lt;br&gt;qds-insurance-senquence" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#FF99FF;" parent="1" vertex="1">
           <mxGeometry x="369" y="-235" width="165" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JrIqLT0imNhMhQEb-82N-102" value="基础应用&lt;br&gt;和中间件" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#666666;fontColor=#333333;fillColor=#CECECE;" parent="1" vertex="1">
@@ -298,13 +298,13 @@
             <mxPoint x="550" y="-173.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_HNEfAQaNREcmYZLOJD-1" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="S_HNEfAQaNREcmYZLOJD-1" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="162.76" y="-170" as="sourcePoint" />
             <mxPoint x="162.49999999999977" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_HNEfAQaNREcmYZLOJD-2" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="S_HNEfAQaNREcmYZLOJD-2" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.667;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1430.26" y="-170" as="sourcePoint" />
             <mxPoint x="1429.9999999999998" y="-140" as="targetPoint" />
